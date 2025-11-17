@@ -1,0 +1,1 @@
+página simples com gif's e link entre as duas páginas.
