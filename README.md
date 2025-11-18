@@ -1,1 +1,1 @@
-página simples com gif's e link entre as duas páginas.
+página de html simples com gif's e link entre as duas páginas.
