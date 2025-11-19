@@ -4,6 +4,26 @@ img {
 }
 
 body {
-    display: inline-block;
+    display: block;
     text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+body {
+    background-color: rgb(78, 205, 255);
+}
+
+ul {
+    display: block;
+    list-style-type: none;
+}
+
+nav {
+    margin: 10px;
+    padding: 10px;
+}
+
+li {
+    display: inline;
+    margin: 10px;
 }
