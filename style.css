@@ -36,6 +36,8 @@ li {
 
 .container-sections {
     display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container-artigos > article> {
@@ -45,5 +47,9 @@ li {
     display: flex;
     flex-direction: inline;
     padding: 10px;
-
 }
+
+.container-imagem>img {
+    text-align: center;
+  }
+  
